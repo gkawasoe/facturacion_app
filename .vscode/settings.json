@@ -1,0 +1,4 @@
+{
+    "pyside2-vsc.uic.cmd": "..\\env\\Scripts\\pyside2-uic",
+    "python.linting.enabled": false
+}
